@@ -1,7 +1,7 @@
 {
   "main.css": "/fathersday/static/css/main.5c8bf4f7.chunk.css",
-  "main.js": "/fathersday/static/js/main.ac3434bd.chunk.js",
-  "main.js.map": "/fathersday/static/js/main.ac3434bd.chunk.js.map",
+  "main.js": "/fathersday/static/js/main.bd2fd7a9.chunk.js",
+  "main.js.map": "/fathersday/static/js/main.bd2fd7a9.chunk.js.map",
   "static/js/1.f675058b.chunk.js": "/fathersday/static/js/1.f675058b.chunk.js",
   "static/js/1.f675058b.chunk.js.map": "/fathersday/static/js/1.f675058b.chunk.js.map",
   "runtime~main.js": "/fathersday/static/js/runtime~main.eef8276d.js",
@@ -16,6 +16,6 @@
   "static/media/IMG_3471.JPG": "/fathersday/static/media/IMG_3471.5bc2e5ab.JPG",
   "static/css/main.5c8bf4f7.chunk.css.map": "/fathersday/static/css/main.5c8bf4f7.chunk.css.map",
   "index.html": "/fathersday/index.html",
-  "precache-manifest.eb2a41ab411695c1b369818143ef3c0f.js": "/fathersday/precache-manifest.eb2a41ab411695c1b369818143ef3c0f.js",
+  "precache-manifest.19b4eeb182b3df30af34cc93ae462084.js": "/fathersday/precache-manifest.19b4eeb182b3df30af34cc93ae462084.js",
   "service-worker.js": "/fathersday/service-worker.js"
 }

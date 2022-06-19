@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ac3434bd280060a3ed67",
+    "revision": "bd2fd7a9cab14fe6ab91",
     "url": "/fathersday/static/css/main.5c8bf4f7.chunk.css"
   },
   {
-    "revision": "ac3434bd280060a3ed67",
-    "url": "/fathersday/static/js/main.ac3434bd.chunk.js"
+    "revision": "bd2fd7a9cab14fe6ab91",
+    "url": "/fathersday/static/js/main.bd2fd7a9.chunk.js"
   },
   {
     "revision": "f675058b6139eea38c14",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/fathersday/static/media/IMG_3471.5bc2e5ab.JPG"
   },
   {
-    "revision": "5c3c8c40989af998b222f16c09bff3bc",
+    "revision": "bddb6c3859a5ff067d47f2e8f1f4813f",
     "url": "/fathersday/index.html"
   }
 ];
