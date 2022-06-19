@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fathersday/precache-manifest.19b4eeb182b3df30af34cc93ae462084.js"
+  "/fathersday/precache-manifest.2bd44d9263bf08ef29239d29441086e8.js"
 );
 
 workbox.clientsClaim();
